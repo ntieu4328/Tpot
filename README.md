@@ -20,7 +20,8 @@ The project consists of creating an AWS Ubuntu server to run a honeypot framewor
 Guide: [AWS server](https://github.com/ntieu4328/AWS-EC2-Server)
 
 My settings:
-  - Application and OS Images: Ubuntu Server 20.04 LTS (HVM), SSD Volume Type
+  - Application and OS Images: Debian 11
+  - Instance Type: t3.xlarge
   - Key Pair: Use the key that you create and download
   - Network Settings: Allow SSH traffic from --> My IP
-  - Configure Storage: Up to 30 GB
+  - Configure Storage: Greater than 32 GiB of gp3
