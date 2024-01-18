@@ -138,3 +138,59 @@ Kibana dashboard:
 <h2>Results:</h2>
 
 I ran the Tpot framework for over 6 hours. There was a total of 21356 attacks that happened on the various honeypots that I deployed. The top 3 honeypots that were attacked were the Dionaea honeypot with 15854 attacks, the Honeytrap honeypot with 4941, and the Cowrie honeypot with 472 attacks. Vietnam was the country that committed the most attacks, especially on the Dionaea honeypot. I believe that the attacks were automated to go at a certain time because all of the attacks on the Dionaea came all at one time. Iran was the second country to commit the most attacks. The most common usernames were root, admin, sa, (empty), and guest. The most common passwords were (empty), admin, 123456, password, and 54321. This is because the threat actors are targetting servers and machines that have default or insecure usernames and passwords.
+
+<h2>Screenshots:</h2>
+
+<b>After 1 hour:</b>
+
+Attack map:
+
+![attack map](https://github.com/ntieu4328/Tpot/assets/156137990/bad760db-3de5-4c2f-a0fb-9af2a09c3144)
+
+All Tpot honeypots:
+
+![tpot 1 hour 1](https://github.com/ntieu4328/Tpot/assets/156137990/b0c0253b-7c80-425f-b021-74b9bfb94396)
+
+![tpot 1 hour 2](https://github.com/ntieu4328/Tpot/assets/156137990/bad6b8b5-2a43-4442-85fe-c7393d210bb1)
+
+![tpot 1 hour 3](https://github.com/ntieu4328/Tpot/assets/156137990/4a6dc12f-38df-4cb6-a3d8-69f933c2b49f)
+
+Honeytrap:
+
+![tpot honeytrap 1 hour 1](https://github.com/ntieu4328/Tpot/assets/156137990/48fa37a6-bbde-4593-8c4d-b039b6af185d)
+
+![tpot honeytrap 1 hour 2](https://github.com/ntieu4328/Tpot/assets/156137990/0c04ce4c-d2ac-4fed-a81d-f17c6bd72536)
+
+Cowrie:
+
+![cowrie 1 hour 1](https://github.com/ntieu4328/Tpot/assets/156137990/292d1a16-07d3-4077-8afe-57c3ad5b5b70)
+
+![cowrie 1 hour 2](https://github.com/ntieu4328/Tpot/assets/156137990/7495b624-6cd3-42c1-bf38-e25f27760be3)
+
+<b>After 6 hours:</b>
+
+Attack map:
+
+![attack map 6 hours](https://github.com/ntieu4328/Tpot/assets/156137990/de00af7a-07f9-4553-b388-e76911062848)
+
+Honeytrap:
+
+![honeytrap 6 hours 1](https://github.com/ntieu4328/Tpot/assets/156137990/eda45d27-561b-4d04-bed4-9c90efa09c69)
+
+![honeytrap 6 hours 2](https://github.com/ntieu4328/Tpot/assets/156137990/8d2fcb1e-210d-4007-ac9e-3193d42f94d0)
+
+Cowrie:
+
+![cowrie 6 hour 1](https://github.com/ntieu4328/Tpot/assets/156137990/6acf00be-45a6-4df6-9bf6-ec2946ae1908)
+
+![cowrie 6 hour 2](https://github.com/ntieu4328/Tpot/assets/156137990/0163bddd-c14c-4c23-8479-8730186cebb0)
+
+![cowrie 6 hour 3](https://github.com/ntieu4328/Tpot/assets/156137990/46827e97-89b9-4abb-b42b-7de951aa156a)
+
+Dionaea:
+
+![dionaea 6 hours 1](https://github.com/ntieu4328/Tpot/assets/156137990/f7597a5e-d255-43dc-9eda-03aa1e4da0a0)
+
+![dionaea 6 hours 2](https://github.com/ntieu4328/Tpot/assets/156137990/5a7dd7a1-f053-44f5-867f-8c4127020db3)
+
+![dionaea 6 hours 3](https://github.com/ntieu4328/Tpot/assets/156137990/153f564b-16d0-445f-9e97-bc7c08c2313f)
