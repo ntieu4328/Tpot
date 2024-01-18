@@ -17,6 +17,12 @@ Tpot Official page: [Tpot](https://github.com/telekom-security/tpotce)
 
 <b>Debian 11</b>
 
+<h2>Table of Contents:</h2>
+
+[Walk-through](#walk-through)
+
+[Results](#results)
+
 <h2>Walk-through:</h2>
 
 <b>1. Create the AWS server using this guide:</b>
