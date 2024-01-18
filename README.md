@@ -121,4 +121,6 @@ Log in using the Username and Password you created during the setup.
 
 You will now see the Tpot Dashboard:
 
+![tpot dashboard](https://github.com/ntieu4328/Tpot/assets/156137990/f59d97ab-c336-4e17-97b4-e6ae2bee500e)
 
+Key
