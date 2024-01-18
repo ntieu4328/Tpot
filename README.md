@@ -123,4 +123,18 @@ You will now see the Tpot Dashboard:
 
 ![tpot dashboard](https://github.com/ntieu4328/Tpot/assets/156137990/f59d97ab-c336-4e17-97b4-e6ae2bee500e)
 
-Key
+Important tabs:
+
+![tpot tabs 2](https://github.com/ntieu4328/Tpot/assets/156137990/d9437324-0735-4ff9-b3fb-3a4f81865689)
+
+- Attack map allows you to see where the attacks on the honeypots are coming from.
+- Cockpit real-time performance monitoring and web terminal for the honeypots.
+- Kibana provides dashboards for the various honeypots that were deployed.
+
+Kibana dashboard:
+
+![kibana dashboard](https://github.com/ntieu4328/Tpot/assets/156137990/aceb9d00-d9f4-4acb-80fd-3017ac526b01)
+
+<h2>Results:</h2>
+
+  I ran the Tpot framework for over 6 hours. There was a total of 21356 attacks that happened on the various honeypots that I deployed. The top 3 honeypots that were attacked were the Dionaea honeypot with 15854 attacks, the Honeytrap honeypot with 4941, and the Cowrie honeypot with 472 attacks. Vietnam was the country that committed the most attacks, especially on the Dionaea honeypot. Iran was the second country to commit the most attacks.
