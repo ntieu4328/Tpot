@@ -23,6 +23,8 @@ Tpot Official page: [Tpot](https://github.com/telekom-security/tpotce)
 
 [Results](#results)
 
+[Screenshots](#screenshots)
+
 <h2>Walk-through:</h2>
 
 <b>1. Create the AWS server using this guide:</b>
